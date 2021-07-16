@@ -1,10 +1,10 @@
 # Coursera_Specializations_Completed
 
-Data Science Fundamentals with Python and SQL Specialization (IBM)
-    	Tools for Data Science
-    	Python for Data Science and AI
-    	Statistics for Data Science with Python
-    	Databases and SQL for Data Science
+##Data Science Fundamentals with Python and SQL Specialization (IBM)
+  Tools for Data Science
+  Python for Data Science and AI
+  Statistics for Data Science with Python
+  Databases and SQL for Data Science
 
 Data Science: Foundations Using R Specialization (John Hopkins University)
     	The Data Scientist’s Toolbox
