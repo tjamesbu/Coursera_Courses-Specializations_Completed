@@ -1,5 +1,12 @@
 # Coursera_Specializations_Completed
 
+Applied Data Science with Python Specialization (University of Michigan)
+      Introduction to Data Science in Python
+      Applied Plotting, Charting, and Data Representation in Python
+      Applied Machine Learning in Python
+      Applied Text Mining in Python
+      Applied Social Network Analysis in Python
+
 Data Science Fundamentals with Python and SQL Specialization (IBM)
       Tools for Data Science
       Python for Data Science and AI
