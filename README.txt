@@ -1,5 +1,25 @@
 # Coursera_Specializations_Completed
 
+TensorFlow : Advanced Techniques Specialization (DeepLearning.AI)
+      Custom Models, Layers, and Loss Functions with TensorFlow
+      Custom and Distributed Training with TensorFlow
+      Advanced Computer Vision with TensorFlow
+      Generative Deep Learning with TensorFlow
+      
+Neuroscience and Neuroimaging Specialization (Johns Hopkins Uni)
+      Fundamental Neuroscience for Neuroimaging
+      Principles of fMRI 1
+      Principles of fMRI 2
+      Introduction to Neurohacking in R
+      
+AI Engineering Professional Certificate (IBM)
+      Machine Learning with Python
+      Scalable Machine Learning on Big Data using Apache Spark
+      Introduction to Deep Learning & Neural Networks with Keras
+      Deep Neural Networks with PyTorch
+      Building Deep Learning Models with TensorFlow
+      AI Capstone Project with Deep Learning
+
 Applied Data Science with Python Specialization (University of Michigan)
       Introduction to Data Science in Python
       Applied Plotting, Charting, and Data Representation in Python
